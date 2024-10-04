@@ -3,7 +3,7 @@ This is an educational public repository to illustrate the power of automated te
 
 ## Run locally
 1. Set up Python virtual environment.
-```
+```s
 python -m venv venv
 ```
 2. Install required dependencies.
